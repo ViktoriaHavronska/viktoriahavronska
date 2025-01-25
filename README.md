@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 💻 I am currently working on learning how to create projects
+- 🌱 I’m currently learning JAVA
+- 💡 My funny story from life: One teacher had a T-shirt with a very nice phrase << Have you tried turning it off and on again? >>
 <!--
 **ViktoriaHavronska/viktoriahavronska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
